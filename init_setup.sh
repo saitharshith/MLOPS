@@ -1,4 +1,4 @@
-#creating a virtual environment for jupyter notebook
+#!/bin/bash
 echo [$(date)]: "START"
 echo [$(date)]: "creating env with python 3.8 version" 
 conda create --prefix ./env python=3.8 -y
