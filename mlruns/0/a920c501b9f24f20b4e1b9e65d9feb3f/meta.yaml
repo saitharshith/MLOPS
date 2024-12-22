@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dell/Downloads/mlops/MLOPS/mlruns/0/a920c501b9f24f20b4e1b9e65d9feb3f/artifacts
+end_time: 1734863704426
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a920c501b9f24f20b4e1b9e65d9feb3f
+run_name: defiant-perch-684
+run_uuid: a920c501b9f24f20b4e1b9e65d9feb3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734863681694
+status: 3
+tags: []
+user_id: Dell

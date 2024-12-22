@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1734863704345
+current_stage: None
+description: null
+last_updated_timestamp: 1734863704345
+name: model_v1
+run_id: a920c501b9f24f20b4e1b9e65d9feb3f
+run_link: null
+source: file:///C:/Users/Dell/Downloads/mlops/MLOPS/mlruns/0/a920c501b9f24f20b4e1b9e65d9feb3f/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Dell/Downloads/mlops/MLOPS/mlruns/0/a920c501b9f24f20b4e1b9e65d9feb3f/artifacts/model
+user_id: null
+version: 1
